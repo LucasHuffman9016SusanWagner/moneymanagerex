@@ -999,3 +999,5 @@ if(CURL_VERSION)
 endif()
 message(STATUS "gettext ${GETTEXT_VERSION_STRING}")
 message(STATUS "------------------ 8< -----------------")
+
+# Update: 2025-10-05
