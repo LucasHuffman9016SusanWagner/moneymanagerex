@@ -440,3 +440,5 @@ If the build was ok the last message should be something like:
     https://curl.haxx.se/libcurl/
 [configuring CMake projects]:
     https://blogs.msdn.microsoft.com/vcblog/2016/10/05/cmake-support-in-visual-studio/#configure-cmake
+
+<!-- Auto-update: 2025-10-10T03:53:00.825292 -->
